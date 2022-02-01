@@ -10,7 +10,37 @@
   <url>
     <loc>https://example.com/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod></url>
   <url>
-    <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
+    <loc></loc><lastmod>2022-01-31T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://example.com/publication-type/1/</loc><lastmod>2022-01-31T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-31T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://example.com/publication/contact_points_discovery_iclr2022/</loc><lastmod>2022-01-31T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-31T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://example.com/publication_types/</loc><lastmod>2022-01-31T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://example.com/publication/</loc><lastmod>2022-01-31T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-31T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-31T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-31T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-31T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2021-11-30T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://example.com/publication/space_time_memory_bmvc2021/</loc><lastmod>2021-11-30T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2021-11-30T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://example.com/teaching/deep_learning_fall_2021/</loc><lastmod>2021-09-01T13:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://example.com/teaching/</loc><lastmod>2021-09-01T13:00:00+00:00</lastmod></url>
   <url>
     <loc>https://example.com/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
@@ -19,8 +49,6 @@
     <loc>https://example.com/category/demo/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://example.com/post/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://example.com/tags/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
@@ -32,28 +60,42 @@
   <url>
     <loc>https://example.com/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
+    <loc></loc><lastmod>2020-12-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2020-12-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://example.com/publication/lung_cancer_detection_nips2020/</loc><lastmod>2020-12-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2020-12-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2020-12-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2020-12-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://example.com/publication-type/2/</loc><lastmod>2020-04-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://example.com/publication/prostate_cancer_detection_aua_2020/</loc><lastmod>2020-04-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2020-04-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2020-04-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2020-04-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2020-04-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2020-04-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://example.com/teaching/computer_vision_spring_2020/</loc><lastmod>2020-01-01T13:00:00+00:00</lastmod></url>
+  <url>
     <loc>https://example.com/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://example.com/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://example.com/privacy/</loc><lastmod>2018-06-28T00:00:00+01:00</lastmod></url>
-  <url>
-    <loc>https://example.com/terms/</loc><lastmod>2018-06-28T00:00:00+01:00</lastmod></url>
   <url>
     <loc>https://example.com/tag/deep-learning/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://example.com/project/example/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://example.com/project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://example.com/publication-type/1/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://example.com/publication/example/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://example.com/publication_types/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://example.com/publication/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc></loc><lastmod>2013-07-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://example.com/admin/</loc></url></urlset>
