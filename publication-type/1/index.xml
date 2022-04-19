@@ -17,7 +17,29 @@
       <link>https://example.com/publication/contact_points_discovery_iclr2022/</link>
       <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/contact_points_discovery_iclr2022/</guid>
-      <description>&lt;h3 id=&#34;airplane&#34;&gt;Airplane&lt;/h3&gt;
+      <description>&lt;h3 id=&#34;dataset-illustration&#34;&gt;Dataset Illustration&lt;/h3&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./dataset.png&#34; alt=&#34;Dataset Image&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;airplane&#34;&gt;Airplane&lt;/h3&gt;
 &lt;!-- 
 &lt;div class=&#34;25:10&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/cOUtDK2SfJE&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -98,21 +120,13 @@
   &lt;/div&gt;&lt;/figure&gt;&lt;/code&gt;&lt;/p&gt;
 &lt;h3 id=&#34;code-release&#34;&gt;Code Release&lt;/h3&gt;
 &lt;p&gt;Upcoming, please stay tuned!&lt;/p&gt;
-&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;h3 id=&#34;citation&#34;&gt;Citation&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;@InProceedings{li2022contact,
+author = {Li, Sizhe and Huang, Zhiao and Du, Tao and Su, Hao and Tenenbaum, Joshua and Gan, Chuang},
+title = {{C}ontact {P}oints {D}iscovery for {S}oft-{B}ody {M}anipulations with {D}ifferentiable {P}hysics},
+booktitle = {International Conference on Learning Representations (ICLR)},
+year = {2022}}
+&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     
@@ -121,7 +135,24 @@ Supplementary notes can be added here, including [code, math, and images](https:
       <link>https://example.com/publication/space_time_memory_bmvc2021/</link>
       <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/space_time_memory_bmvc2021/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;h3 id=&#34;citation&#34;&gt;Citation&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;@article{DBLP:journals/corr/abs-2111-05526,
+  author    = {Sizhe Li and
+               Yapeng Tian and
+               Chenliang Xu},
+  title     = {Space-Time Memory Network for Sounding Object Localization in Videos},
+  journal   = {CoRR},
+  volume    = {abs/2111.05526},
+  year      = {2021},
+  url       = {https://arxiv.org/abs/2111.05526},
+  eprinttype = {arXiv},
+  eprint    = {2111.05526},
+  timestamp = {Tue, 16 Nov 2021 12:12:31 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2111-05526.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
