@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Sizhe Li</title>
-    <link>https://example.com/publication-type/2/</link>
-      <atom:link href="https://example.com/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lester0866.github.io/publication-type/2/</link>
+      <atom:link href="https://lester0866.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Sizhe Li</copyright><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu81880007a45834b4534c24f3c4afa9ff_5775_512x512_fill_lanczos_center_3.png</url>
+      <url>https://lester0866.github.io/media/icon_hu81880007a45834b4534c24f3c4afa9ff_5775_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
-      <link>https://example.com/publication-type/2/</link>
+      <link>https://lester0866.github.io/publication-type/2/</link>
     </image>
     
     <item>
       <title>A Deep Learning Algorithm for the Diagnosis and Gleason Grading of Whole Slide Images of Prostate Cancer Core Biopsies</title>
-      <link>https://example.com/publication/prostate_cancer_detection_aua_2020/</link>
+      <link>https://lester0866.github.io/publication/prostate_cancer_detection_aua_2020/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/prostate_cancer_detection_aua_2020/</guid>
+      <guid>https://lester0866.github.io/publication/prostate_cancer_detection_aua_2020/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

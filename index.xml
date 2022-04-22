@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sizhe Li</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lester0866.github.io/</link>
+      <atom:link href="https://lester0866.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Sizhe Li</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 31 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Sizhe Li</copyright><lastBuildDate>Mon, 31 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu81880007a45834b4534c24f3c4afa9ff_5775_512x512_fill_lanczos_center_3.png</url>
+      <url>https://lester0866.github.io/media/icon_hu81880007a45834b4534c24f3c4afa9ff_5775_512x512_fill_lanczos_center_3.png</url>
       <title>Sizhe Li</title>
-      <link>https://example.com/</link>
+      <link>https://lester0866.github.io/</link>
     </image>
     
     <item>
       <title>Contact Points Discovery for Soft-Body Manipulations with Differentiable Physics</title>
-      <link>https://example.com/publication/contact_points_discovery_iclr2022/</link>
+      <link>https://lester0866.github.io/publication/contact_points_discovery_iclr2022/</link>
       <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/contact_points_discovery_iclr2022/</guid>
+      <guid>https://lester0866.github.io/publication/contact_points_discovery_iclr2022/</guid>
       <description>&lt;h3 id=&#34;dataset-illustration&#34;&gt;Dataset Illustration&lt;/h3&gt;
 &lt;p&gt;
 
@@ -132,9 +132,9 @@ year = {2022}}
     
     <item>
       <title>Space-Time Memory Network for Sounding Object Localization in Videos</title>
-      <link>https://example.com/publication/space_time_memory_bmvc2021/</link>
+      <link>https://lester0866.github.io/publication/space_time_memory_bmvc2021/</link>
       <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/space_time_memory_bmvc2021/</guid>
+      <guid>https://lester0866.github.io/publication/space_time_memory_bmvc2021/</guid>
       <description>&lt;h3 id=&#34;citation&#34;&gt;Citation&lt;/h3&gt;
 &lt;pre&gt;&lt;code&gt;@article{DBLP:journals/corr/abs-2111-05526,
   author    = {Sizhe Li and
@@ -172,9 +172,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>Fall 2021: Deep Learning</title>
-      <link>https://example.com/teaching/deep_learning_fall_2021/</link>
+      <link>https://lester0866.github.io/teaching/deep_learning_fall_2021/</link>
       <pubDate>Wed, 01 Sep 2021 13:00:00 +0000</pubDate>
-      <guid>https://example.com/teaching/deep_learning_fall_2021/</guid>
+      <guid>https://lester0866.github.io/teaching/deep_learning_fall_2021/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -194,9 +194,9 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     
     <item>
       <title>Learning to localize mutation in lung adenocarcinoma histopathology images</title>
-      <link>https://example.com/publication/lung_cancer_detection_nips2020/</link>
+      <link>https://lester0866.github.io/publication/lung_cancer_detection_nips2020/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/lung_cancer_detection_nips2020/</guid>
+      <guid>https://lester0866.github.io/publication/lung_cancer_detection_nips2020/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -217,9 +217,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>A Deep Learning Algorithm for the Diagnosis and Gleason Grading of Whole Slide Images of Prostate Cancer Core Biopsies</title>
-      <link>https://example.com/publication/prostate_cancer_detection_aua_2020/</link>
+      <link>https://lester0866.github.io/publication/prostate_cancer_detection_aua_2020/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/prostate_cancer_detection_aua_2020/</guid>
+      <guid>https://lester0866.github.io/publication/prostate_cancer_detection_aua_2020/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -240,9 +240,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>Spring 2020: Computer Vision</title>
-      <link>https://example.com/teaching/computer_vision_spring_2020/</link>
+      <link>https://lester0866.github.io/teaching/computer_vision_spring_2020/</link>
       <pubDate>Wed, 01 Jan 2020 13:00:00 +0000</pubDate>
-      <guid>https://example.com/teaching/computer_vision_spring_2020/</guid>
+      <guid>https://lester0866.github.io/teaching/computer_vision_spring_2020/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -262,27 +262,27 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     
     <item>
       <title>Privacy Policy</title>
-      <link>https://example.com/privacy/</link>
+      <link>https://lester0866.github.io/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://example.com/privacy/</guid>
+      <guid>https://lester0866.github.io/privacy/</guid>
       <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Terms</title>
-      <link>https://example.com/terms/</link>
+      <link>https://lester0866.github.io/terms/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://example.com/terms/</guid>
+      <guid>https://lester0866.github.io/terms/</guid>
       <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/admin/config.yml</link>
+      <link>https://lester0866.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/admin/config.yml</guid>
+      <guid>https://lester0866.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     
