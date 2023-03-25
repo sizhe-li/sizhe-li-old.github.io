@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sizhe Li</title>
-    <link>https://lester0866.github.io/</link>
-      <atom:link href="https://lester0866.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sizhe-li.github.io/</link>
+      <atom:link href="https://sizhe-li.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Sizhe Li</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Sizhe Li</copyright><lastBuildDate>Wed, 19 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://lester0866.github.io/media/icon_hu81880007a45834b4534c24f3c4afa9ff_5775_512x512_fill_lanczos_center_3.png</url>
+      <url>https://sizhe-li.github.io/media/icon_hu81880007a45834b4534c24f3c4afa9ff_5775_512x512_fill_lanczos_center_3.png</url>
       <title>Sizhe Li</title>
-      <link>https://lester0866.github.io/</link>
+      <link>https://sizhe-li.github.io/</link>
     </image>
     
     <item>
       <title>DexDeform: Dexterous Deformable Object Manipulation with Human Demonstrations and Differentiable Physics</title>
-      <link>https://lester0866.github.io/publication/dexdeform/</link>
+      <link>https://sizhe-li.github.io/publication/dexdeform/</link>
       <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://lester0866.github.io/publication/dexdeform/</guid>
+      <guid>https://sizhe-li.github.io/publication/dexdeform/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact Points Discovery for Soft-Body Manipulations with Differentiable Physics</title>
-      <link>https://lester0866.github.io/publication/contact_points_discovery_iclr2022/</link>
+      <link>https://sizhe-li.github.io/publication/contact_points_discovery_iclr2022/</link>
       <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://lester0866.github.io/publication/contact_points_discovery_iclr2022/</guid>
+      <guid>https://sizhe-li.github.io/publication/contact_points_discovery_iclr2022/</guid>
       <description>&lt;h3 id=&#34;dataset-illustration&#34;&gt;Dataset Illustration&lt;/h3&gt;
 &lt;p&gt;
 
@@ -141,7 +141,7 @@
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./rope&amp;#43;&amp;#43;_demo.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;&lt;/code&gt;&lt;/p&gt;
 &lt;h3 id=&#34;code-release&#34;&gt;Code Release&lt;/h3&gt;
-&lt;p&gt;Please check out our GitHub repository &lt;a href=&#34;https://github.com/lester0866/CPDeform&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CPDeform&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Please check out our GitHub repository &lt;a href=&#34;https://github.com/sizhe-li/CPDeform&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CPDeform&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;citation&#34;&gt;Citation&lt;/h3&gt;
 &lt;pre&gt;&lt;code&gt;@InProceedings{li2022contact,
 author = {Li, Sizhe and Huang, Zhiao and Du, Tao and Su, Hao and Tenenbaum, Joshua and Gan, Chuang},
@@ -157,9 +157,9 @@ Nexplore, ONR MURI (N00014-13-1-0333), DARPA Machine Common Sense program, ONR (
     
     <item>
       <title>Space-Time Memory Network for Sounding Object Localization in Videos</title>
-      <link>https://lester0866.github.io/publication/space_time_memory_bmvc2021/</link>
+      <link>https://sizhe-li.github.io/publication/space_time_memory_bmvc2021/</link>
       <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://lester0866.github.io/publication/space_time_memory_bmvc2021/</guid>
+      <guid>https://sizhe-li.github.io/publication/space_time_memory_bmvc2021/</guid>
       <description>&lt;h3 id=&#34;citation&#34;&gt;Citation&lt;/h3&gt;
 &lt;pre&gt;&lt;code&gt;@article{DBLP:journals/corr/abs-2111-05526,
   author    = {Sizhe Li and
@@ -197,9 +197,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>Fall 2021: Deep Learning</title>
-      <link>https://lester0866.github.io/teaching/deep_learning_fall_2021/</link>
+      <link>https://sizhe-li.github.io/teaching/deep_learning_fall_2021/</link>
       <pubDate>Wed, 01 Sep 2021 13:00:00 +0000</pubDate>
-      <guid>https://lester0866.github.io/teaching/deep_learning_fall_2021/</guid>
+      <guid>https://sizhe-li.github.io/teaching/deep_learning_fall_2021/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -219,9 +219,9 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     
     <item>
       <title>Spring 2020: Computer Vision</title>
-      <link>https://lester0866.github.io/teaching/computer_vision_spring_2020/</link>
+      <link>https://sizhe-li.github.io/teaching/computer_vision_spring_2020/</link>
       <pubDate>Wed, 01 Jan 2020 13:00:00 +0000</pubDate>
-      <guid>https://lester0866.github.io/teaching/computer_vision_spring_2020/</guid>
+      <guid>https://sizhe-li.github.io/teaching/computer_vision_spring_2020/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -241,27 +241,27 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     
     <item>
       <title>Privacy Policy</title>
-      <link>https://lester0866.github.io/privacy/</link>
+      <link>https://sizhe-li.github.io/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://lester0866.github.io/privacy/</guid>
+      <guid>https://sizhe-li.github.io/privacy/</guid>
       <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Terms</title>
-      <link>https://lester0866.github.io/terms/</link>
+      <link>https://sizhe-li.github.io/terms/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://lester0866.github.io/terms/</guid>
+      <guid>https://sizhe-li.github.io/terms/</guid>
       <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://lester0866.github.io/admin/config.yml</link>
+      <link>https://sizhe-li.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lester0866.github.io/admin/config.yml</guid>
+      <guid>https://sizhe-li.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     

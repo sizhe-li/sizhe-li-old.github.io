@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://lester0866.github.io/sitemap.xml
+Sitemap: https://sizhe-li.github.io/sitemap.xml

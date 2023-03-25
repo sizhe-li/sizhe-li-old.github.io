@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teachings | Sizhe Li</title>
-    <link>https://lester0866.github.io/teaching/</link>
-      <atom:link href="https://lester0866.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sizhe-li.github.io/teaching/</link>
+      <atom:link href="https://sizhe-li.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teachings</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Sizhe Li</copyright><lastBuildDate>Wed, 01 Sep 2021 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://lester0866.github.io/media/icon_hu81880007a45834b4534c24f3c4afa9ff_5775_512x512_fill_lanczos_center_3.png</url>
+      <url>https://sizhe-li.github.io/media/icon_hu81880007a45834b4534c24f3c4afa9ff_5775_512x512_fill_lanczos_center_3.png</url>
       <title>Teachings</title>
-      <link>https://lester0866.github.io/teaching/</link>
+      <link>https://sizhe-li.github.io/teaching/</link>
     </image>
     
     <item>
       <title>Fall 2021: Deep Learning</title>
-      <link>https://lester0866.github.io/teaching/deep_learning_fall_2021/</link>
+      <link>https://sizhe-li.github.io/teaching/deep_learning_fall_2021/</link>
       <pubDate>Wed, 01 Sep 2021 13:00:00 +0000</pubDate>
-      <guid>https://lester0866.github.io/teaching/deep_learning_fall_2021/</guid>
+      <guid>https://sizhe-li.github.io/teaching/deep_learning_fall_2021/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -36,9 +36,9 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     
     <item>
       <title>Spring 2020: Computer Vision</title>
-      <link>https://lester0866.github.io/teaching/computer_vision_spring_2020/</link>
+      <link>https://sizhe-li.github.io/teaching/computer_vision_spring_2020/</link>
       <pubDate>Wed, 01 Jan 2020 13:00:00 +0000</pubDate>
-      <guid>https://lester0866.github.io/teaching/computer_vision_spring_2020/</guid>
+      <guid>https://sizhe-li.github.io/teaching/computer_vision_spring_2020/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
