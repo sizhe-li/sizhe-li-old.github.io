@@ -61,10 +61,10 @@
   
     
   
-  <meta name="description" content="李思哲" />
+  <meta name="description" content="pixelSplat infers a 3D Gaussian scene from two input views in a single forward pass." />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://sizhe-li.github.io/publication-type/1/" />
+  <link rel="alternate" hreflang="en-us" href="https://sizhe-li.github.io/publication/pixel_splat/" />
 
   
   
@@ -308,8 +308,6 @@
   
 
   
-    <link rel="alternate" href="/publication-type/1/index.xml" type="application/rss+xml" title="Sizhe Lester Li" />
-  
 
   
     <link rel="manifest" href="/manifest.webmanifest" />
@@ -318,7 +316,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu81880007a45834b4534c24f3c4afa9ff_5775_32x32_fill_lanczos_center_3.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu81880007a45834b4534c24f3c4afa9ff_5775_180x180_fill_lanczos_center_3.png" />
 
-  <link rel="canonical" href="https://sizhe-li.github.io/publication-type/1/" />
+  <link rel="canonical" href="https://sizhe-li.github.io/publication/pixel_splat/" />
 
   
   
@@ -329,7 +327,6 @@
   
   
     
-    
   
   
 
@@ -338,36 +335,87 @@
     
     
   
-  <meta property="twitter:card" content="summary" />
+  <meta property="twitter:card" content="summary_large_image" />
   
   <meta property="og:site_name" content="Sizhe Lester Li" />
-  <meta property="og:url" content="https://sizhe-li.github.io/publication-type/1/" />
-  <meta property="og:title" content="1 | Sizhe Lester Li" />
-  <meta property="og:description" content="李思哲" /><meta property="og:image" content="https://sizhe-li.github.io/media/icon_hu81880007a45834b4534c24f3c4afa9ff_5775_512x512_fill_lanczos_center_3.png" />
-    <meta property="twitter:image" content="https://sizhe-li.github.io/media/icon_hu81880007a45834b4534c24f3c4afa9ff_5775_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:url" content="https://sizhe-li.github.io/publication/pixel_splat/" />
+  <meta property="og:title" content="pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction | Sizhe Lester Li" />
+  <meta property="og:description" content="pixelSplat infers a 3D Gaussian scene from two input views in a single forward pass." /><meta property="og:image" content="https://sizhe-li.github.io/publication/pixel_splat/featured.png" />
+    <meta property="twitter:image" content="https://sizhe-li.github.io/publication/pixel_splat/featured.png" /><meta property="og:locale" content="en-us" />
   
     
-      <meta property="og:updated_time" content="2023-12-25T00:00:00&#43;00:00" />
+      <meta
+        property="article:published_time"
+        content="2023-12-25T00:00:00&#43;00:00"
+      />
     
+    <meta property="article:modified_time" content="2023-12-25T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://sizhe-li.github.io/publication/pixel_splat/"
+  },
+  "headline": "pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction",
+  
+  "image": [
+    "https://sizhe-li.github.io/publication/pixel_splat/featured.png"
+  ],
+  
+  "datePublished": "2023-12-25T00:00:00Z",
+  "dateModified": "2023-12-25T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Sizhe Lester Li"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Sizhe Lester Li",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://sizhe-li.github.io/media/icon_hu81880007a45834b4534c24f3c4afa9ff_5775_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "pixelSplat infers a 3D Gaussian scene from two input views in a single forward pass."
+}
+</script>
+
+  
+
+  
+
   
 
   
 
 
 
-  
-
-  
 
 
-
-
-
-  <title>1 | Sizhe Lester Li</title>
+  <title>pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction | Sizhe Lester Li</title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   "  >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="89b23863658b62bb86ac8318ee3674df" >
 
   
   
@@ -623,39 +671,7 @@
 
 
 
-
-
-
-
-  
-
-  
-  
-  
-    
-  
-<div class="universal-wrapper pt-3">
-  <h1>1</h1>
-
-  
-
-  
-</div>
-
-
-
-<div class="universal-wrapper">
-  
-
-  
-  
-    
-
-
-
-
-
-
+<div class="pub">
 
   
 
@@ -665,182 +681,326 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
   
 
 
-<div class="media stream-item view-compact">
-  <div class="media-body">
+<div class="article-container pt-3">
+  <h1 style="text-align:center">pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction</h1>
 
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/publication/pixel_splat/" >pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction</a>
-    </div>
+  
 
-    
-    <a href="/publication/pixel_splat/"  class="summary-link">
-      <div class="article-style">
-        pixelSplat infers a 3D Gaussian scene from two input views in a single forward pass.
-      </div>
-    </a>
-    
+  <div class="center">
+  
 
-    <div class="stream-meta article-metadata">
 
-      
+<div class="article-metadata">
 
-      
-      <div>
+  
+  
+  
+  
+  
+
+<div class="publication-author-font">
+    <span>
+        <a href="https://sizhe-li.github.io/">Sizhe Lester Li</a>
         
-
-  <span class="author-highlighted" style="color:black">Sizhe Lester Li</span>, <span ><a href="https://davidcharatan.com">David Charatan</a></span>, <span ><a href="https://theialab.ca/">Andrea Tagliasacchi</a></span>, <span ><a href="https://www.vincentsitzmann.com/">Vincent Sitzmann</a></span>
-      </div>
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    <a href="/publication/pixel_splat/" >
-      <img src="/publication/pixel_splat/featured_hu094962d777c280e271175d5543234eb2_426134_150x0_resize_q75_h2_lanczos_3.webp" height="75" width="150"
-           alt="pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction" loading="lazy">
-    </a>
-    
-  </div>
-</div>
-
-  
-    
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/publication/dexdeform/" >DexDeform: Dexterous Deformable Object Manipulation with Human Demonstrations and Differentiable Physics</a>
-    </div>
-
-    
-    <a href="/publication/dexdeform/"  class="summary-link">
-      <div class="article-style">
-        We perform an initial investigation on learning dexterous manipulation of deformable objects using multi-fingered hands.
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
+    </span><sup>1</sup>, <span>
+        <a href="https://davidcharatan.com">David Charatan</a>
         
-
-  <span class="author-highlighted" style="color:black">Sizhe Lester Li</span>, <span ><a href="https://sites.google.com/view/zhiao-huang">Zhiao Huang</a></span>, <span ><a href="https://taochenshh.github.io">Tao Chen</a></span>, <span ><a href="https://people.csail.mit.edu/taodu/">Tao Du</a></span>, <span ><a href="https://cseweb.ucsd.edu//~haosu/">Hao Su</a></span>, <span ><a href="http://web.mit.edu/cocosci/josh.html">Joshua B. Tenenbaum</a></span>, <span ><a href="http://people.csail.mit.edu/ganchuang/">Chuang Gan</a></span>
-      </div>
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    <a href="/publication/dexdeform/" >
-      <img src="/publication/dexdeform/featured_hu32d5f8d63c2725ba65f12d52f27d9dea_13307438_150x0_resize_q75_h2_lanczos_3.webp" height="106" width="150"
-           alt="DexDeform: Dexterous Deformable Object Manipulation with Human Demonstrations and Differentiable Physics" loading="lazy">
-    </a>
-    
-  </div>
-</div>
-
-  
-    
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/publication/contact_points_discovery_iclr2022/" >Contact Points Discovery for Soft-Body Manipulations with Differentiable Physics</a>
-    </div>
-
-    
-    <a href="/publication/contact_points_discovery_iclr2022/"  class="summary-link">
-      <div class="article-style">
-        Differentiable physics solver gets stuck when the contact points of the end effectors are sub-optimal. We propose a contact point discovery approach that guides the stand-alone differentiable physics solver to deform various soft-body plasticines.
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
+    </span><sup>1</sup>, <span>
+        <a href="https://theialab.ca/">Andrea Tagliasacchi</a>
         
+    </span><sup>2</sup>, <span>
+        <a href="https://www.vincentsitzmann.com/">Vincent Sitzmann</a>
+        
+    </span><sup>1</sup></div><div>
+    <span style="color:black"><sup>1</sup>Massachusetts Institute of Technology</span>, <span style="color:black"><sup>2</sup>Simon Fraser University, University of Toronto</span></div>
+  
+  
 
-  <span class="author-highlighted" style="color:black">Sizhe Lester Li</span><span class="author-highlighted" style="color:black">*</span>, <span ><a href="https://sites.google.com/view/zhiao-huang">Zhiao Huang</a></span><span >*</span>, <span ><a href="https://people.csail.mit.edu/taodu/">Tao Du</a></span>, <span ><a href="https://cseweb.ucsd.edu//~haosu/">Hao Su</a></span>, <span ><a href="http://web.mit.edu/cocosci/josh.html">Joshua B. Tenenbaum</a></span>, <span ><a href="http://people.csail.mit.edu/ganchuang/">Chuang Gan</a></span>
-      </div>
+  
+  <span class="article-date">
+    
+    
       
-    </div>
-
     
+    December 2023
+  </span>
+  
 
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
   </div>
-  <div class="ml-3">
+  
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
     
-    
-    
-    <a href="/publication/contact_points_discovery_iclr2022/" >
-      <img src="/publication/contact_points_discovery_iclr2022/featured_hua0dbfb89b743f5b7d4b6e8d1367c1eb0_3300363_150x0_resize_q75_h2_lanczos_3.webp" height="111" width="150"
-           alt="Contact Points Discovery for Soft-Body Manipulations with Differentiable Physics" loading="lazy">
-    </a>
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header" href="https://arxiv.org/pdf/2312.12337.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header" href="https://davidcharatan.com/pixelsplat/" target="_blank" rel="noopener">
+  Project
+</a>
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 361px;">
+  <div style="position: relative">
+    <img src="/publication/pixel_splat/featured_hu094962d777c280e271175d5543234eb2_426134_720x2500_fit_q75_h2_lanczos_3.webp" width="720" height="361" alt="" class="featured-image">
     
   </div>
 </div>
 
+
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">We introduce pixelSplat, a feed-forward model that learns to reconstruct 3D radiance fields parameterized by 3D Gaussian primitives from pairs of images. Our model features real-time and memory-efficient rendering for scalable training as well as fast 3D reconstruction at inference time. To overcome local minima inherent to sparse and locally supported representations, we predict a dense probability distribution over~3D and sample Gaussian means from that probability distribution. We make this sampling operation differentiable via a reparameterization trick, allowing us to back-propagate gradients through the Gaussian splatting representation. We benchmark our method on wide-baseline novel view synthesis on the real-world RealEstate10k and ACID datasets, where we outperform state-of-the-art light field transformers and accelerate rendering by 2.5 orders of magnitude while reconstructing an interpretable and editable 3D radiance field.</p>
+    
+
+    
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            <a href="/publication/#1">
+              Conference paper
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">CVPR, 2024</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
+  
+    
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://sizhe-li.github.io/"><img class="avatar mr-3 avatar-square" src="/authors/admin/avatar_huebbfad1edfa8e198fe68a27ac6a615ca_905364_270x270_fill_q75_lanczos_center.jpg" alt="Sizhe Lester Li"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://sizhe-li.github.io/">Sizhe Lester Li</a></h5>
+      <h6 class="card-subtitle">李思哲</h6>
+      <p class="card-text">I am interested in building inverse models that learn to caputure the rich and <em>structured representation</em> of our world from <em>unstructured observation</em>, through physical interactions of embodied agents. To this end, my research draws ideas from vision, graphics, robotics, and computational cognitive science.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=KfUuNDwAAAAJ&amp;hl=en/" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/sizhe_lester_li" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/lester-sizhe-li/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
 
   
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  </div>
 </div>
   </div>
 

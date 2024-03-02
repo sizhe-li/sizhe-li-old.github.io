@@ -5,12 +5,20 @@
     <link>https://sizhe-li.github.io/publication-type/1/</link>
       <atom:link href="https://sizhe-li.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Sizhe Lester Li</copyright><lastBuildDate>Wed, 19 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Sizhe Lester Li</copyright><lastBuildDate>Mon, 25 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sizhe-li.github.io/media/icon_hu81880007a45834b4534c24f3c4afa9ff_5775_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://sizhe-li.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction</title>
+      <link>https://sizhe-li.github.io/publication/pixel_splat/</link>
+      <pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://sizhe-li.github.io/publication/pixel_splat/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>DexDeform: Dexterous Deformable Object Manipulation with Human Demonstrations and Differentiable Physics</title>
@@ -152,46 +160,6 @@ year = {2022}}
 &lt;h3 id=&#34;acknowledgement&#34;&gt;Acknowledgement&lt;/h3&gt;
 &lt;p&gt;We thank Hannah Skye Dunnigan for her help on graphic design. This work was supported by MIT-IBM Watson AI Lab and its member company
 Nexplore, ONR MURI (N00014-13-1-0333), DARPA Machine Common Sense program, ONR (N00014-18-1-2847) and MERL.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Space-Time Memory Network for Sounding Object Localization in Videos</title>
-      <link>https://sizhe-li.github.io/publication/space_time_memory_bmvc2021/</link>
-      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://sizhe-li.github.io/publication/space_time_memory_bmvc2021/</guid>
-      <description>&lt;h3 id=&#34;citation&#34;&gt;Citation&lt;/h3&gt;
-&lt;pre&gt;&lt;code&gt;@article{DBLP:journals/corr/abs-2111-05526,
-  author    = {Sizhe Li and
-               Yapeng Tian and
-               Chenliang Xu},
-  title     = {Space-Time Memory Network for Sounding Object Localization in Videos},
-  journal   = {CoRR},
-  volume    = {abs/2111.05526},
-  year      = {2021},
-  url       = {https://arxiv.org/abs/2111.05526},
-  eprinttype = {arXiv},
-  eprint    = {2111.05526},
-  timestamp = {Tue, 16 Nov 2021 12:12:31 +0100},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-2111-05526.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
     
